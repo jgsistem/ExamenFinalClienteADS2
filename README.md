@@ -21,6 +21,6 @@ Calcular el monto de la beca por código de estudiante
 Pregrado, Maestria y Doctorado:
 
 Se manejan directamente en una Tabla: tipoalumno, donde existen los 3 tipos de modalidades de la Universidad.
-Y en la tabla Alumno, cada vez que se matricule un alumno se registra tipo de modalidad que desea. Siendo transparente el cálculo..
+Y en la tabla Alumno, cada vez que se matricule un alumno se registra tipo de modalidad que desea. Siendo transparente el cálculo...
 
 
