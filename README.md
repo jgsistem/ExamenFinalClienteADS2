@@ -6,15 +6,12 @@ Alumno:
  ADSExamenFinal
 Endpoints:
 Estudiantes de Doctorado
-https://my-jg17examenfinal-reflective-okapi.cfapps.io/api/Student/GetAllStudent/{typeStudent}
 https://my-jg17examenfinal-reflective-okapi.cfapps.io/api/Student/GetAllStudent/3
 
 Estudiantes de Maestría
-https://my-jg17examenfinal-reflective-okapi.cfapps.io/api/Student/GetAllStudent/{typeStudent}
 https://my-jg17examenfinal-reflective-okapi.cfapps.io/api/Student/GetAllStudent/2
 
 Estudiantes de Pregrado
-https://my-jg17examenfinal-reflective-okapi.cfapps.io/api/Student/GetAllStudent/{typeStudent}
 https://my-jg17examenfinal-reflective-okapi.cfapps.io/api/Student/GetAllStudent/1
 
 Todos los estudiantes

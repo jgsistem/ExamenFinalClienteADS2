@@ -10,7 +10,7 @@ script:
 - ng build --prod
 deploy:
    provider: cloudfoundry
-   username: jgsistem@hotmail.com
+   username: jgsistem
    password: 
     secure: "lTDNBBHVmZ1HEQ5IMs24La3xAkbsy5bJTaSwcJDNbc8dhvVOqtgDbFrpOVG1sw4TasKofRbtUXlkd4Mhuq8ymxAnVYM1yInbTD/QRAApSnfYNmu3JtGWSA7hqyq7BvN1ZGX3tMkIO5e9FRGNaDPAGj5rlI6rZ+rvrKJfJtKSCLbMSxuAJ6D7zcJfvbDkMMNvHG4UbHld+Hbysk5SeuvAZ7kc7wrDUZHpPDeGvtJ7Pca1YBXiF4O9Qt8+Y+teIkRFMVZrKa7/PTtnWY7AiGmqc6UNc2xkGy+S5dNYBvoPnPBXu/dhF7UPMmafQqrkQP5WCOa4uJp3ObV5z6hNYRm1hFKMbH6ny6wHU4naO1cB5rFTasHRIY4bLXlaKRYvtpHsjWLy8Jy2ihpQvQW3oxsSTMYCzgBW8z8I0eq4I3GmXJH21aYqhEx7pitPaybloPn3dG1GL2jxaf4O3e08M/XdsO6s51oA0vNUfo8qrESNJpGTQdguPyE5ttT++Ml/FE2Wrx2NVEgG/JmAvYIrtXQJnu8MuvpEYA/v3BzbMckfQWjlZdaSoP1C+bsa9pqrZS4aC4vmkV16taFpfzYQEjBSFjjZjwzPbuFplb6Eu1G9fklbYk4XxzuhCOSWNAfrnF5oVJp46oSTueNV8MR4HN1vDwlkFJ1SYfxGZS5w+KVEMyI="
    api: https://api.run.pivotal.io
