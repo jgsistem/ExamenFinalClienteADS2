@@ -1,6 +1,6 @@
 ---
 applications:
-- name: student-client
+- name: jg17StudentClient
   path: /home/travis/build/jgsistem/ExamenFinalClienteADS2/dist
   buildpack: staticfile_buildpack
   memory: 256M
