@@ -1,8 +1,8 @@
 ---
 applications:
 - name: student-client
-  path: /home/travis/build/rfernandezv/ExamenFinalClientev2/dist
+  path: /home/travis/build/jgsistem/ExamenFinalClienteADS2/dist
   buildpack: staticfile_buildpack
-  memory: 768M
+  memory: 256M
   instances: 1
   random-route: true
